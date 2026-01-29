@@ -2,7 +2,7 @@
 
 This repository contains the code associated to the paper [*Parallelizable Parametric Nonlinear System Identification via tuning of a Moving Horizon State Estimator* by Léo Simpson, Jonas Asprion, Simon Muntwiler, Johannes Köhler and Moritz Diehl](https://arxiv.org/pdf/2403.17858.pdf).
 
-Please refer to the paper for detailted explanations of the content of the code here.
+Please refer to the paper for explanations of the content of the code here.
 
 ## Organization of the files
 
