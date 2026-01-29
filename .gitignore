@@ -1,0 +1,9 @@
+*.ipynb_checkpoints/
+*.python-version
+*.DS_Store*
+*__pycache__*
+
+*.pkl
+
+*ipopt_output/
+*data_to_plot/
